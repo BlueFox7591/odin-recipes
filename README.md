@@ -1,4 +1,4 @@
-# Create odin-recipes directory.
+Create odin-recipes directory.
 
 Create index.html file.
 
